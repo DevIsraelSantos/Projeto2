@@ -1,3 +1,4 @@
 [submodule "repo"]
 	path = repo
+	recurse = true
 	url = https://github.com/DevIsraelSantos/repo.git
